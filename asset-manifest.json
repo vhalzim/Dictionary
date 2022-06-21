@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dictionary/static/css/main.2586db68.css",
-    "main.js": "/Dictionary/static/js/main.df67a28f.js",
-    "static/js/787.dd118a8f.chunk.js": "/Dictionary/static/js/787.dd118a8f.chunk.js",
-    "index.html": "/Dictionary/index.html",
-    "main.2586db68.css.map": "/Dictionary/static/css/main.2586db68.css.map",
-    "main.df67a28f.js.map": "/Dictionary/static/js/main.df67a28f.js.map",
-    "787.dd118a8f.chunk.js.map": "/Dictionary/static/js/787.dd118a8f.chunk.js.map"
+    "main.css": "/dictionary/static/css/main.2586db68.css",
+    "main.js": "/dictionary/static/js/main.9dbff66e.js",
+    "static/js/787.dd118a8f.chunk.js": "/dictionary/static/js/787.dd118a8f.chunk.js",
+    "index.html": "/dictionary/index.html",
+    "main.2586db68.css.map": "/dictionary/static/css/main.2586db68.css.map",
+    "main.9dbff66e.js.map": "/dictionary/static/js/main.9dbff66e.js.map",
+    "787.dd118a8f.chunk.js.map": "/dictionary/static/js/787.dd118a8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2586db68.css",
-    "static/js/main.df67a28f.js"
+    "static/js/main.9dbff66e.js"
   ]
 }
