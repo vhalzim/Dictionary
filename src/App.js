@@ -3,7 +3,7 @@ import SearchView from "./components/SearchView.js";
 import Favorites from "./components/FavoritesList.js";
 import useLocalStorage from "./hooks/useLocalStorage.js";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link,
